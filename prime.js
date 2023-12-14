@@ -24,7 +24,7 @@ console.log(isPrime(4))
 
 
 // more optimized soln
-
+ 
 function isPrimeOptimized(n){
     if(n<2){
         return false;
